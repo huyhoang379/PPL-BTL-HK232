@@ -1,0 +1,15 @@
+
+func f(number n)
+
+number a[2, 3] <- [[f(1), f(2), f(3)], [f(4), f(5), f(6)]]
+func main()
+begin
+    var i <- 0
+    dynamic j <- 0
+    for i until i > 1 by 1
+        for j until j > 2 by 1
+            writeNumber(a[i, j])
+end
+
+func f(number a)
+    return a

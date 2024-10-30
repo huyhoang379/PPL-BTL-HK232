@@ -1,0 +1,8 @@
+ 
+        func b() ##HAPPY BIRTHDAY
+        begin
+            b[_4 + f(_3)] <- b[_c[_3, _4]] + _5 
+        end
+        
+        
+                

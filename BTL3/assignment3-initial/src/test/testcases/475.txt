@@ -1,0 +1,11 @@
+
+dynamic x
+dynamic y
+func main()
+begin
+    dynamic z
+    dynamic arr <- [[1, x], [2, y], [3, z]]
+    x <- 20
+    y <- 30
+    z <- "Hi"
+end

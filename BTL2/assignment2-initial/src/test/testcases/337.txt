@@ -1,0 +1,7 @@
+func main() begin
+        if (1) writeString("1")
+        elif (2) if(3) writeString("1")
+        elif (4) writeString("1")
+        else writeString("1")
+        end
+        

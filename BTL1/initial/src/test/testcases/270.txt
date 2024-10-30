@@ -1,0 +1,9 @@
+
+        var b<- 3.1416
+            func main()
+                    begin
+                    b <- [2,3,4]
+                    if (b==2) 
+                    else b=2
+                    end
+                    

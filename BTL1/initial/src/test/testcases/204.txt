@@ -1,0 +1,17 @@
+ 
+            number HuyHoang
+            
+            ## Huy Hoang
+            number HuyHoang <- 1
+            bool b[1,1]
+            bool b[1,1] <- 12 + 12 / 23 * 34
+            string b[34]
+            ## 12 
+            
+            string b[34] <- 23 ... " stress"
+            var j <- 1
+            dynamic j
+            dynamic j <- 1
+            ## Huy Hoang
+             
+        

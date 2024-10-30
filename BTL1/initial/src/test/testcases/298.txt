@@ -1,0 +1,8 @@
+
+        fu main()
+        begin
+            continue
+        end
+        break
+        func abc(number x)
+        

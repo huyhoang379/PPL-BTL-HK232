@@ -1,0 +1,14 @@
+
+func f(number arr[10], number n)
+begin
+    var i <- 0
+    for i until i >= n by 1
+        writeNumber(arr[i])
+end
+
+func main()
+begin
+    dynamic n
+    f([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], n)
+    n <- 10
+end

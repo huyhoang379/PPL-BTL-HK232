@@ -1,0 +1,9 @@
+
+        var p<- 3.1416
+            func main()
+                    begin
+                    p <- [2,3,4]
+                    if (p==2) 
+                    else p=2
+                    end
+                    

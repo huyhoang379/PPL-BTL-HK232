@@ -1,0 +1,7 @@
+
+        func huhu()
+            begin
+            for j+2 until h >= 22 by 2 + 2
+                c <- 2
+            end
+        

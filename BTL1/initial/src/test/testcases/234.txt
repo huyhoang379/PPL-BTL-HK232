@@ -1,0 +1,13 @@
+
+        ## comment
+        func huhu()
+
+            ## comment
+            begin
+            aPI <- 3.1416
+            end
+            ## comment
+            
+        ## comment
+        
+        

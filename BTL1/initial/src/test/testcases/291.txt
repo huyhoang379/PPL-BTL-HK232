@@ -1,0 +1,5 @@
+  string a <- "u r my life"
+        bool b <- false
+        func main()
+        func isEven()
+                    

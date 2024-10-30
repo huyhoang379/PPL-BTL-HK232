@@ -1,0 +1,9 @@
+ func main(bool hehe[3])
+            begin
+                
+                return TT
+                return VV
+                return AA
+                bool hehe[hihi]
+            end
+                    

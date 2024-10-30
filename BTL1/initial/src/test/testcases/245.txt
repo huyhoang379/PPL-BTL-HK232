@@ -1,0 +1,16 @@
+
+        func huhu()
+        begin 
+            break
+            continue
+            for j until j >= 10 by 2 + 2 ... 4 / 5
+                begin
+                    break
+                    continue
+                end
+                
+            for j until j >= 10 by 2 print(2)
+            for h until h >= 10 by 2 
+                print(2)
+        end
+        

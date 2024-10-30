@@ -1,0 +1,16 @@
+  var im_so_sad <- -2e-8
+number pi <- 3.1416
+dynamic e <- 2.7183
+func expe(number m)
+begin
+var ans <- 1
+var j<-0
+for j until j=m by 2
+return ans
+end
+func main()
+begin
+	var b<-exp(9)
+end
+        
+                    

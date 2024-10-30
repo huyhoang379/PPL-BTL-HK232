@@ -1,0 +1,23 @@
+
+func f(number arr[10], number x)
+
+func main()
+begin
+    dynamic n
+    var i <- 0
+    number arr[10]
+    for i until true by 1
+    begin
+        n <- readNumber()
+        if ((n > 10) or (n <= 0)) writeString("Try again")
+        else break
+    end
+    
+    for i until i >= n by 1
+        arr[i] <- readNumber()
+    
+    f(arr, n)
+end
+
+func f(number a[5], number n)
+    return

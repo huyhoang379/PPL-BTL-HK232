@@ -1,0 +1,7 @@
+
+                func main() begin
+        number a <- readNumber()
+        var b <- 1.
+        dynamic c
+end
+        

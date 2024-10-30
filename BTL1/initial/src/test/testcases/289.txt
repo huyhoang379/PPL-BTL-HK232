@@ -1,0 +1,8 @@
+
+        func main() begin
+for a until a by a
+if (a) break up
+aa()
+2
+end
+        

@@ -1,0 +1,20 @@
+
+        func huhu()
+            begin
+                begin
+                    begin
+                        y <- 1
+                    end
+                    
+                    begin
+                        return false
+                    end
+                    
+                    return true
+                end
+                
+                begin
+                end
+                return false
+            end
+        

@@ -1,0 +1,11 @@
+
+        func huhu()
+            begin
+            for j until j >= 11 by 2 + 2
+                ## comment
+                
+                y <- 2
+            ## comment
+            end
+            
+        

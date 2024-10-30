@@ -1,0 +1,10 @@
+
+        func main() begin
+        var a <- 1
+        if (a = 1) begin
+        return a
+        a <- a + 1
+        end
+        return 5
+        end
+        

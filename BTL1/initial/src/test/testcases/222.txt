@@ -1,0 +1,9 @@
+ 
+            var HuyHoang <- true > "true" 
+            var HuyHoang <- true >= "true"
+            var HuyHoang <- true = "true"
+            var HuyHoang <- true == "true"
+            var HuyHoang <- true < "true"
+            var HuyHoang <- true <= "true"
+            var HuyHoang <- true >= "true" ... 1 > 2
+        

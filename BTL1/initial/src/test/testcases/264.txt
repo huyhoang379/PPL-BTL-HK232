@@ -1,0 +1,10 @@
+
+                func main()
+        begin 
+            return ([2,3,4]) + 2
+            return main()
+            main(2,3)
+            fun()
+            main([2,3,4], 2+3, b, d ... f)
+        end
+        

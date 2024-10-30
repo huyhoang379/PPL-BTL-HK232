@@ -1,0 +1,11 @@
+ func ohmygod(number y)
+ begin
+ if (y <= 2) return true
+ var j <- 3
+ for arr[1] until j > y / 3 by 2
+ begin
+ if (y % j = 1) return true
+ end
+ return false
+ end
+                    

@@ -1,0 +1,13 @@
+
+var f <- 10
+func f()
+    return
+
+func main()
+begin
+    dynamic a
+    dynamic b
+    number c
+    dynamic x <- f([a, b, c])
+    x <- ["Hello", ", my name is ", "Kien"]
+end

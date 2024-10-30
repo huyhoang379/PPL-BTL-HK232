@@ -1,0 +1,14 @@
+
+        number a <- 100
+
+        func sum(number n)
+        begin
+            if (n = 0) return 0
+            return n + sum(n - 1)
+        end
+
+        func main()
+        begin
+            writeNumber(sum(a))
+        end
+        

@@ -1,0 +1,8 @@
+
+func main()
+begin
+    number x <- readNumber()
+    if (x <= 10) writeString("Number is less than or equal to 10")
+    elif ((x > 10) and (x <= 20)) writeString("Number is between 11 and 20")
+    else writeString("Invalid number!")
+end

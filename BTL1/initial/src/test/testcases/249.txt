@@ -1,0 +1,10 @@
+
+        func huhu()
+        begin 
+            return ([3,2,3]) + 2
+            return huhu()
+            huhu(3,2)
+            sad()
+            huhu([3,2,3], 3+2, b, d ... e)
+        end
+        

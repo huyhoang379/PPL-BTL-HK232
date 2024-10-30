@@ -1,0 +1,7 @@
+ func main(bool haha[3])
+            begin
+                bool LoveYou = - - - (not (-(not a[2+4%5,a<4,function(a+3)])))
+                return honey
+                bool hihi[hehe]
+            end
+                    

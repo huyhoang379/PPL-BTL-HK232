@@ -1,0 +1,7 @@
+
+                func main()
+        begin 
+            bool b <- b[not not - - (b[b[b[b[b[b[1]]]]]]), 3+4/5,[2,3,4,5]]
+        end
+        var c <- b(2,3)[2,3,4 ... 3] + false + true
+        

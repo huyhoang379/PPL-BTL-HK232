@@ -1,0 +1,15 @@
+
+func f(number arr[10], number n)
+begin
+    if ((n < 0) or (n >= 10)) return -999
+    number i <- 0
+    for i until i >= n by 1
+        if (arr[i] < 10) return i
+    
+    return not (n < 20)
+end
+
+func main()
+begin
+    f([1, 9, 6, 5, 3, 8, 10, 28, 0, -10], 10)
+end

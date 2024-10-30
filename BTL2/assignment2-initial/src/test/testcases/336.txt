@@ -1,0 +1,7 @@
+func main() begin
+        number a
+        if (5 < 2) a <- 1
+        elif (not true) a <- 2
+        elif ("h" == "6") a <- 3
+        end
+        

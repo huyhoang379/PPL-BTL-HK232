@@ -1,0 +1,14 @@
+
+func max(number x, number y)
+begin
+    if (x <= y) return y
+    return x
+end
+
+func main()
+begin
+    number x <- readNumber()
+    number y <- readNumber()
+    number z <- readNumber()
+    writeNumber(max(max(x, y), z))
+end

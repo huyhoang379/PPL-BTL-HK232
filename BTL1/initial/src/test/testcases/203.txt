@@ -1,0 +1,7 @@
+
+            var HuyHoang <- false and "false" or 2 
+            var HuyHoang <- 2 and 3 and 4 or 5 or 6
+            var HuyHoang <- 2 + 3 - 3 + 4 and 4
+            var HuyHoang <- 2 / 3 * 4 % 5
+            var HuyHoang <- 2 / 3 / 3 * 4 % 5
+        

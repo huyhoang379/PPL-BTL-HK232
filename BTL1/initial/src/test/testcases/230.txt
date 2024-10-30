@@ -1,0 +1,6 @@
+ 
+            var HuyHoang <- b()
+            var HuyHoang <- b(1,2)
+            var HuyHoang <- b(x,array[2])[2]
+            var HuyHoang <- b(z,k[3] ... 2)[1,2]
+        

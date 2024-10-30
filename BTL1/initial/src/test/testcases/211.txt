@@ -1,0 +1,5 @@
+ 
+            func TT()
+            ## Huy Hoang
+            func TT() func TT(dynamic b) ## Huy Hoang
+        

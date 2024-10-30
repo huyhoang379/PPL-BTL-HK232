@@ -1,0 +1,18 @@
+
+func add(number x, number y)
+
+func main()
+begin
+    var i <- 0
+    for i until i > 10 by 0
+    begin
+        i <- add(i, 1)
+        writeNumber(i)
+    end
+end
+
+func add(number a, number b)
+begin
+    number x <- a + b
+    return x
+end

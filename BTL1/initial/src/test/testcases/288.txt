@@ -1,0 +1,6 @@
+
+        begin
+            if (d...e <= 2) return false else b<-2
+        end
+        func abc(number x)
+        

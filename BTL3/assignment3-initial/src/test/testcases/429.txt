@@ -1,0 +1,14 @@
+
+func f(number x)
+
+func main()
+begin
+    number x <- 10
+    number y <- f(x)
+    writeNumber(y)
+end
+
+func f(string x)
+begin
+    return x == "Hello"
+end

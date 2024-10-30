@@ -1,0 +1,7 @@
+ 
+            func hotd(string b) 
+                begin 
+                    continue ## 12
+                end
+            func hotd(dynamic b) 
+        

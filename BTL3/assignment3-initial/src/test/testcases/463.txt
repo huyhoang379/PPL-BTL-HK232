@@ -1,0 +1,7 @@
+
+number x <- 10
+func f(number x)
+begin
+    number x <- x + 20
+    writeNumber(x)
+end

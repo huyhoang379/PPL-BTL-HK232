@@ -1,0 +1,8 @@
+
+func main()
+begin
+    dynamic x <- readBool()
+    dynamic y <- not readBool()
+    if (x and y) writeNumber(1)
+    else writeNumber(0)
+end

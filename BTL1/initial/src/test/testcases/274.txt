@@ -1,0 +1,6 @@
+
+                func main()
+        begin 
+            bool b <- not not - - (b[b[b[b[b[b[1]]]]]])
+        end
+        

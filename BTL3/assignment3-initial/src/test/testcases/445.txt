@@ -1,0 +1,9 @@
+
+func f()
+begin
+
+end
+dynamic a
+number b
+bool c
+string d

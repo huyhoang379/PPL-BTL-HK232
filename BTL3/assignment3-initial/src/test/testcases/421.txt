@@ -1,0 +1,14 @@
+
+func f(number x[3])
+begin
+    return
+end
+    
+func main()
+begin
+    dynamic a
+    dynamic b
+    dynamic c
+    f([a, b, c])
+    a <- 3
+end

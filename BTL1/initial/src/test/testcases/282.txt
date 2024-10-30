@@ -1,0 +1,7 @@
+ 
+        func face()
+        begin
+            newlive()
+            newlive()
+        end
+        

@@ -1,0 +1,17 @@
+
+func pow(number x, number y)
+
+func main()
+begin
+    number x <- readNumber()
+    number y <- readNumber()
+    writeNumber(pow(x, y))
+end
+
+func pow(number a, number b)
+begin
+    if (b = 0) return 1
+    number k <- pow(a, b / 2)
+    if (b % 2 = 0) return k * k
+    return a * k * k
+end

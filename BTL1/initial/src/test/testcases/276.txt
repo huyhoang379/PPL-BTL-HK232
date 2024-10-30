@@ -1,0 +1,6 @@
+ var b = "DL di ac qua di"
+                func main()
+                begin
+                    for b[34] until b <3 by 2 return false
+                end
+                    

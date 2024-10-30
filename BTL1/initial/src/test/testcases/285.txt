@@ -1,0 +1,8 @@
+
+            func main()
+            begin
+                for j until j<2 by b%3+6-5 
+                    for k until j by b[6] 
+                        for l until k by fun()[b] return
+            end    
+        

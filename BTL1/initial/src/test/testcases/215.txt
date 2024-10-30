@@ -1,0 +1,4 @@
+ 
+            func duch(number b[2,3,4]) ##12
+                break
+        

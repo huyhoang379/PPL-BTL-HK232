@@ -1,0 +1,10 @@
+func main()
+            func main(number s1)
+            func main(number b[6],bool y[3+2,3,4], bool b[6,3,4], string c, bool d)
+            func main(number huhu, number hichic)
+                var HuyHoang <- 1
+            func main(number s1 )
+            begin
+                main(main()[3,4],arr[3+2,4])
+            end
+        

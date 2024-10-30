@@ -1,0 +1,14 @@
+
+            ##12
+            func huhu(number b) 
+                ##12
+                
+                begin 
+                    break
+                end
+                
+                ##12
+                ##12
+            func huhu(number b)
+            ##12        
+        

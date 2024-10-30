@@ -1,0 +1,7 @@
+
+number x
+number y
+func f()
+
+func main()
+    return

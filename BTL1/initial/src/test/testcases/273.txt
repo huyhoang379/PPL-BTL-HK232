@@ -1,0 +1,9 @@
+ 
+        func main()
+begin
+var j<-1
+number y<-rNumber()
+for j until j<y by 6
+y <- y + 2
+end
+        

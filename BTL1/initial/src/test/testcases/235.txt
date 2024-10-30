@@ -1,0 +1,23 @@
+
+        func huhu() begin 
+        end
+        func huhu() 
+            begin 
+                ## comment0
+            end
+        func huhu()
+            ## comment1
+            begin
+                ## comment2
+                
+                ## comment3
+                HuyHoang <- 1 + 2 + sad()
+                HuyHoang[1+a] <- 1
+                
+                ## comment4
+                HuyHoang[3+4,2,4] <- 3
+                
+                ## comment5
+            end
+            ## comment
+        

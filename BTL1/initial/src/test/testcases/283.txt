@@ -1,0 +1,13 @@
+ 
+        func main()
+begin
+var a<-0
+var b<-0
+var c<-0
+number z<-readNumber()
+for a until a<z by 5
+for b until b<z by i
+for c until c<z by 1 var i <- "Tinh dau kho phai"
+end
+        
+        

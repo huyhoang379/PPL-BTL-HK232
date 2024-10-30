@@ -1,0 +1,29 @@
+ 
+        func main()
+            begin   
+                if(2+2) api <- 2
+                ## comment0
+                
+                if(2+2) 
+                    ## comment1
+                    
+                    api <- 2
+                    ## comment2
+                else api <- 2
+                ## comment3
+                
+                if 2 api <- 2
+                elif 3 ... 3
+                    ## comment1
+                    
+                    api <- 2
+                    ## comment2
+                elif 2 api <- 2
+                
+                if 2 api <- 2
+                elif 2 ... 3 api <- 2
+                elif 2 api <- 2
+                else api <- 2   
+            end
+        
+        

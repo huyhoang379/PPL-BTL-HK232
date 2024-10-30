@@ -1,0 +1,4 @@
+
+        dynamic b <- [[3+4,f()[3],3],3,[4,5]]
+        func main (number b, number c, bool arr[2,3,[3,4]])
+                    

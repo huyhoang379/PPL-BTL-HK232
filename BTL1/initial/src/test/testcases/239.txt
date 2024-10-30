@@ -1,0 +1,28 @@
+
+        func huhu()
+            begin   
+                if(1+1) api <- 3.14
+                ## comment0
+                
+                if(1+1) 
+                    ## comment1
+                    
+                    api <- 3.14
+                    ## comment2
+                else api <- 3.14
+                ## comment3
+                
+                if (1) api <- 3.14
+                elif (1 ... 2)
+                    ## comment1
+                    
+                    api <- 3.14
+                    ## comment2
+                elif (1) api <- 3.14
+                
+                if (1) api <- 3.14
+                elif (1 ... 2) api <- 3.14
+                elif (1) api <- 3.14
+                else api <- 3.14  
+            end
+        

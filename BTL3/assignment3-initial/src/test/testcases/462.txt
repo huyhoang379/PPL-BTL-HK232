@@ -1,0 +1,22 @@
+
+dynamic a <- [[3, 9, 2, 10, -1], [0, -10, 5, 3, 11], [10, 9, -27, 36, 4]]
+func sort(number a[5])
+begin
+    var i <- 0
+    var j <- 0
+    for i until i > 4 by 1
+        for j until j > 4 by 1
+            if (a[i] > a[j])
+            begin
+                var temp <- a[i]
+                a[i] <- a[j]
+                a[j] <- temp
+            end
+end
+
+func main()
+begin
+    var i <- 0
+    for i until i > 2 by 1
+        sort(a[i])
+end

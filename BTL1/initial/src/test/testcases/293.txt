@@ -1,0 +1,12 @@
+ 
+        func foo(number b[6], string c)
+        begin
+            var j <- 1
+            for j until j >= 6 by 2
+                begin
+                    b[j] <- j * j + 6
+                end
+            return 0
+        end
+        
+        

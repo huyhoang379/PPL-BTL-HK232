@@ -1,0 +1,8 @@
+ 
+        var tymm <- "<3"
+        func interface(newlive())
+        begin
+            
+            newlive()
+        end
+        

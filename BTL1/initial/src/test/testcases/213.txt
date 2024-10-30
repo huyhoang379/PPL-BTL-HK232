@@ -1,0 +1,6 @@
+ 
+            ##12
+            ##12
+            
+            func muoi(number b) var d <- 2
+        

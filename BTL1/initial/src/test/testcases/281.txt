@@ -1,0 +1,4 @@
+  string b <- "Cuoc song ma"
+        func main(bool b <- false)
+        func isEven()
+                    

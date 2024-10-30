@@ -1,0 +1,6 @@
+ 
+            func main()
+            func main(number n1, number n2)
+                var HuyHoang <- 2
+            func main(number s1 <- d)
+        

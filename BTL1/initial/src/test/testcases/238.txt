@@ -1,0 +1,6 @@
+
+        func huhu()
+            begin
+            (aPI)[5]<- 3.1416
+            end
+        

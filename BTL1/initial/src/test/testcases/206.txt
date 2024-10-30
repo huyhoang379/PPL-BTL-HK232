@@ -1,0 +1,3 @@
+ 
+            dynamic HuyHoang[6] <- 4
+        

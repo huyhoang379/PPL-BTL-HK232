@@ -1,0 +1,8 @@
+ 
+        func main()
+        begin
+            b[_4 + foo(_5)] <- b[_c[_6, _7]] + _8 
+        end
+        func b() ##HAPPY BIRTHDAY
+        
+                

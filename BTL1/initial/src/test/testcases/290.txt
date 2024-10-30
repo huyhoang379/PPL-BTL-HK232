@@ -1,0 +1,24 @@
+
+        func foo()
+        begin      
+            begin   
+                if(2+2) a <- 2
+                elif (3+3=6) a <- 3
+                
+                if(2+2) a <- 2
+                else a <- 2
+                ## comment
+                
+                if (2) a <- 2
+                elif 2 ... 3
+     
+                    a <- 2
+                elif (2) a <- 2
+                
+                if (2) a <- 2
+                elif (2 ... 3) a <- 2
+                elif 2 a <- 2
+                else a <- 2   
+            end
+        end
+                    
